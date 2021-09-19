@@ -1,0 +1,26 @@
+header {
+  display: flex;
+  justify-content: space-between;
+  position: fixed;
+  top: 0;
+  width: 100%;
+}
+
+li {
+  list-style-type: none;
+  display: inline-block;
+  width: auto;
+}
+
+#nav-bar {
+  flex: 1 1 auto;
+  text-align: right;
+}
+
+#header-img {
+  max-width: 150px;
+}
+
+#rest {
+  margin-top: 20%;
+}
