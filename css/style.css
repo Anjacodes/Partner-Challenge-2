@@ -24,3 +24,8 @@ li {
 #rest {
   margin-top: 20%;
 }
+@media (max-width: 480px){
+  body {
+    background-color: aqua;
+  }
+}
